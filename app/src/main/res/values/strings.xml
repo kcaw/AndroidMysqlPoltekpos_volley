@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">POLITEKNIK POS INDONESIA</string>
+    <string name="title_activity_utama">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Project Tugas Besar</string>
+    <string name="nav_header_subtitle">yusniar33@gmail.com</string>
+    <string name="nav_header_subtitle2">imronsumadireza@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">About</string>
+</resources>
