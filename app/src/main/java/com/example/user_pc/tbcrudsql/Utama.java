@@ -107,7 +107,7 @@ public class Utama extends AppCompatActivity
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
 
-            Toast.makeText(this, "Created by : "+ "\n Imron Sumadireja"+ "\n Yusniar Nur Syarif Sidiq", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "Created by : "+ "\n Imron Sumadireja"+ "\n Yusniar Nur Syarif Sidiq"+ "\n Andri Fajar Sunandhar", Toast.LENGTH_LONG).show();
             return true;
         }
 
